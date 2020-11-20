@@ -1,0 +1,245 @@
+h1, h2 {
+  font-family: 'Roboto';
+  padding: 5%;
+  text-align: center;
+  font-stretch: expanded;
+}
+
+body {
+  text-align: center;
+}
+
+#contact-form {
+  background-color: #cfd3ce;
+  color: #463333;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 4%;
+  margin-bottom: 3%;
+}
+
+hr {
+  border: 2px;
+  background-color: #463333;
+}
+
+.navbar-brand {
+  color: #c6b497;
+}
+
+.nav-item, .nav-link {
+  padding: 4%;
+  text-align: center;
+}
+
+.section3 {
+  padding: 7% 10%;
+  text-align: center;
+}
+.container {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.3rem;
+}
+
+/* carousel */
+.carousel-item {
+  padding: 7% 15%;
+}
+
+figure, figcaption, .fig {
+  text-align: center;
+}
+
+.giphy-embed {
+  text-align: center;
+  /* border-radius: 70%; */
+  /* margin: 20px; */
+  width: 50%;
+  height: 50%;
+}
+
+.testimonial-image {
+  text-align: center;
+  border-radius: 100%;
+  margin: 20px;
+  width: 12%;
+}
+
+.scale-and-automate {
+  padding: 5% 7%;
+  text-align: center;
+}
+
+.navbar {
+  color: #cfd3ce;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+}
+
+.button-demo {
+  text-align: center;
+  color: #7ea04d;
+  background-color: #335d2d;
+}
+
+#title {
+  background-color: #463333;
+  padding: 4% 10%;
+}
+
+.section1, .section-testimonials, .scale-and-automate {
+  background-color: #463333;
+  color: #ebd4d4;
+}
+
+.section-multiplatform {
+  background-color: #ebd4d4;
+  color: #463333;
+  padding: 12% 15%
+}
+.fas1 {
+  padding-top: 15%;
+  text-align: center;
+}
+.card {
+  text-align: center;
+  padding: 10px;
+  width: 15rem;
+  height: 15rem;
+  background-color: #f8e4b7;
+  color: #463333;
+  margin: 15px;
+}
+
+/* form */
+.section-testimonials {
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.top_right_form {
+  padding-left: 8px !important;
+  text-align: center;
+}
+
+.top_right_form .form-group {
+  display: block;
+  margin-right: 1px;
+}
+
+.top_right_form .form_outline {
+  color: #394867;
+  font-family: 'Playfair Display', serif;
+  width: 400px;
+  height: auto;
+  border-radius: 4px;
+  box-shadow: 0 5px 12px 0 rgba(0, 0, 0, 0.2);
+  background-color: #f1f6f9;
+  padding: 40px 40px 40px 40px;
+  display: inline-block;
+  margin-bottom: 5rem;
+}
+
+.top_right_form .form_outline p {
+  font-size: 25px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.3;
+  letter-spacing: normal;
+  text-align: left;
+  color: #202020;
+  margin-bottom: 25px;
+}
+
+.top_right_form .form_outline input {
+  border-radius: 4px;
+  border: solid 1px #dcdcdc;
+  margin-bottom: 20px;
+}
+
+.top_right_form .form-control {
+  display: block;
+  width: 100%;
+  height: 40px;
+  padding: 0px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+  -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+  -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+  transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+.section8, .section3 {
+  padding: 5% 5%;
+  background-color: #ebd4d4;
+  color: #463333;
+  text-align: center;
+  font-size: 2rem;
+  font-family: 'Playfair Display', serif;
+}
+
+.card:hover {
+  color: #a35638;
+}
+
+.section8-img {
+  padding: 2px;
+}
+
+.check {
+  color: #7ea04d;
+}
+
+.social {
+  padding: 4%;
+  background-color: #E4F9F5;
+  color: #393b44;
+  text-align: center;
+}
+
+.copyright {
+  font-family: 'Montserrat';
+  font-size: 1.2rem;
+  padding: 3% 4%;
+  color: #393b44;
+}
+
+.social:hover {
+  color: #056674;
+}
+
+.social-link-icon {
+  font-size: 1rem;
+  line-height: 1;
+  padding-top: 10%;
+}
+
+.about {
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
